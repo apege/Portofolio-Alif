@@ -723,12 +723,9 @@ const PremiumPortfolio = () => {
         <div className="max-w-6xl mx-auto relative z-10">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="text-gray-400 text-center md:text-left">
-              © 2024 Portfolio. Crafted with <Heart className="w-4 h-4 inline text-pink-400 fill-pink-400" /> using React & Tailwind CSS
+              © 2024 Muhammad Alif Muzakky — Portfolio Website. Crafted with <Heart className="w-4 h-4 inline text-pink-400 fill-pink-400" /> using Next.js & Tailwind CSS
             </div>
             <div className="flex gap-6">
-              <a href="#home" className="text-gray-400 hover:text-purple-400 transition-colors">Privacy</a>
-              <a href="#home" className="text-gray-400 hover:text-purple-400 transition-colors">Terms</a>
-              <a href="#contact" className="text-gray-400 hover:text-purple-400 transition-colors">Contact</a>
             </div>
           </div>
         </div>
